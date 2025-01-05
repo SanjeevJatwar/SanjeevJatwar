@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SanjeevJatwar
-- 👀 I’m interested in MAchine Learning and Web development.
-- 🌱 I’m currently learning DSA and full stack
+- 👀 I’m interested in Machine Learning play with datasets.
+- 🌱 I’m currently learning DSA and deep learning.
 - 💞️ I’m looking to collaborate on various projects
 - 📫 Reach out to me at email as jatwarsanjeev@gmail.com
 
